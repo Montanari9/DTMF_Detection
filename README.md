@@ -6,7 +6,7 @@ NOTA: o sinal para a leitura do ADC possivelmente precisa ser amplificado para a
 
 Tabela DTMF:
 
-![alt tag] https://cloud.githubusercontent.com/assets/19431122/22147751/4fe8dd40-def1-11e6-852a-4bac288a75ed.jpg 
+![Screenshot](dtmf table.jpg)
  
 Maior Frequencia: 1633Hz
 Deltas:
